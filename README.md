@@ -12,5 +12,5 @@ The data is published in kaggle platform. Large set of retina images taken using
 Link: https://www.kaggle.com/c/aptos2019-blindness-detection
 
 ## Note:
-The notebook is forked from DimitreOliveira's notebook:
+The notebook was forked from DimitreOliveira's notebook:
 https://www.kaggle.com/dimitreoliveira/aptos-blindness-detection-eda-and-keras-resnet50
